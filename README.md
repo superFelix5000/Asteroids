@@ -5,4 +5,4 @@
 Classic game missile command. Emphasis was on the logic and code structure here, _not_ the graphics :)
 You can choose between manual and ai modes.
 
-Tested again with Unity 2021.3.18f1
+Project opens in the newest version of Unity.
